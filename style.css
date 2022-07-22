@@ -258,7 +258,6 @@ p {
 .about-wrapper {
   display: flex;
   flex-wrap: wrap-reverse;
-  padding-bottom: 1em;
   width: 100%;
 }
 
