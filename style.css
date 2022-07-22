@@ -73,15 +73,11 @@ p {
   display: flex;
   flex: 0 1 200px;
   margin: auto;
-  transform: translateX(-150%);
-  animation: baner-img-animation 1s ease-in-out forwards;
 }
 
 .baner {
   flex: 1 1 400px;
   padding: 1em;
-  transform: translate(150%);
-  animation: baner-animation 1s ease-in-out forwards;
 }
 
 .baner-img img {
@@ -266,19 +262,6 @@ p {
   width: 100%;
 }
 
-@keyframes baner-img-animation {
-  100% {
-    transform: translate(0);
-  }
-}
-
-@keyframes baner-animation {
-  100% {
-    transform: translate(0);
-  }
-}
-
-
 /* ........habilidades........... */
 
 .galeria-wrapper {
@@ -318,7 +301,7 @@ p {
 }
 
 .carrousel .grande {
-  width: 400%;
+  width: 200%;
   display: flex;
   flex-flow: row nowrap;
   justify-content: space-between;
