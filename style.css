@@ -95,16 +95,14 @@ p {
   cursor: pointer;
   outline: none;
   margin: 1em 43%;
-  border: 2px solid #fff;
-}
-
-.btn-primary {
+  border: 2px solid #fff; 
   color: #fff;
   background: #16a083;
 }
 
-.btn-primary:hover {
-  background: #117964;
+.btn:hover {
+  background: #fff;
+  color: #000;
   transition: background 0.3s ease-in-out;
 }
 
