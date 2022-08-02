@@ -333,13 +333,13 @@ p {
   --blanco: #ececec;
 }
 /* ........ Contact Us........... */
-.pie-pagina{
+.pie-Página{
   width: 100%;
   background-color: #0a141d;
   display: flex;
   flex-direction: column;
 }
-.pie-pagina .grupo-1{
+.pie-Página .grupo-1{
   width: 90%;
   display: flex;
   flex-direction: column;
@@ -367,13 +367,13 @@ p {
   text-align: center; 
 }
 
-.pie-pagina .grupo-2{
+.pie-Página .grupo-2{
   background-color: #0a1a2a;
   padding: 15px 10px;
   text-align: center;
   color: #fff;
 }
-.pie-pagina .grupo-2 small{
+.pie-Página .grupo-2 small{
   font-size: 15px;
 }
 
